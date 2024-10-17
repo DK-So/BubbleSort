@@ -38,7 +38,3 @@ Sorted array: 2 3 5 5 6 8 9
 
 ## License
 This project is open-source and can be freely modified or distributed.
-
----
-
-This `README` gives an overview of the project, explains how to build and run it, and outlines the purpose of the code.
